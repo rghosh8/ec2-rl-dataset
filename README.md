@@ -14,5 +14,5 @@ This repository contains datasets collected from 5 different EC2 instances. The 
 
 ## Time Series Characteristics
 
-Each of the 5 time series data was collected for a 24 hour period from 2PM-UTC9/1/2021 to 2PM-UTC 9/2/2021 with 1 minute sampling interval.
+Each of the 5 time series data was collected for a 24 hour period from 2PM-UTC-9/1/2021 to 2PM-UTC-9/2/2021 with 1 minute sampling interval.
 
