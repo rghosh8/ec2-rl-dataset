@@ -1,6 +1,6 @@
 # ec2-rl-dataset
 
-This repository contains datasets collected from 5 different EC2 instances. The resource configuration pair of (# of vCPUs, Memory Size in GB) acts as the action parameters for the RL. The transient CPU utilization (%) acts as state parameter. 
+This repository contains datasets collected from 5 different EC2 instances. The resource configuration pair of (# of vCPUs, Memory Size in GB) acts as the action parameters for the RL. The transient CPU utilization (%) acts as the state variable. The reward is defined as the negative of time the agent takes to bring the CPU utilization (%) below 90% at the minimum resource consumption set points.
 
 
 
